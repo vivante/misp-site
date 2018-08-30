@@ -464,7 +464,7 @@ input: -webkit-autofill:focus {
     padding-top: 55px;
 }
 #volunteer .vol_area {
-    padding: 80px 0;
+    padding: 50px 0;
 }
 #volunteer .join_us a.vol_cust_btn {
     background: #4484CE;
@@ -680,13 +680,12 @@ div#achivement {
 
 #event {
     min-height: 550px;
-	background:#272e4f;
     /*background: url(../img/temp10.jpg) no-repeat scroll top center / cover;*/
-    color: #000;
+    background:#EEEEEE;
     padding: 35px 0px;
 }
 #event .event_header {
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 }
 #event .event_header h2 {
     font-size: 36px;
@@ -703,7 +702,7 @@ div#achivement {
 }
 #event .event_text {
     padding: 30px 30px 0;
-    background: #eff0f2;
+    background: #c6cec9;
     min-height: 419px;
 }
 #event .event_item img {
@@ -747,6 +746,7 @@ div#achivement {
 }
 #event .event_news {
     padding-bottom: 27px;
+    background: #c6cec9;
 }
 .event_news_text {
     display: block;
@@ -772,7 +772,7 @@ div#achivement {
 
 #testimonial {
     color: #fff;
-    background: url(../img/img3.jpg) no-repeat scroll top center / cover;
+    /*background: url(../img/img3.jpg) no-repeat scroll top center / cover;*/
     /*border-bottom: 2px solid #bcbaba;*/
 }
 .testimonial_overlay {
@@ -780,7 +780,7 @@ div#achivement {
     position: relative;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.53);
+    /*background-color: rgba(0, 0, 0, 0.53);*/
 }
 #testimonial .testimonial_header {
 }
@@ -890,7 +890,7 @@ div#achivement {
 
 /*purches*/
 section#market {
-    padding: 80px;
+    padding: 30px;
 }
 
 #purches {
@@ -980,7 +980,8 @@ div#market-place {
 #contact {
     min-height: 650px;
     background: #eeeeee;
-    padding: 80px 0;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .msg {
