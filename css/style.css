@@ -929,6 +929,8 @@ div#achivement {
 
 #blog .single_blog_item {
     border: 2px solid #d1d3d1;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #blog .blog_content {
@@ -963,7 +965,7 @@ div#achivement {
 }
 
 #blog .blog_news .blog_img img {
-    height: 230px;
+    height: 300px;
     width: 100%;
 }
 
