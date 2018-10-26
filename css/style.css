@@ -899,18 +899,13 @@ div#achivement {
 
 #blog {
     min-height: 500px;
-    padding: 35px 0;
-    background: #fff;
-
+    padding: 80px 0;
 }
-
 #blog p {
     display: inline-block;
 }
-
 #blog .latest_blog {
 }
-
 #blog .latest_blog h2 {
     padding-bottom: 20px;
     font-size: 36px;
@@ -919,25 +914,19 @@ div#achivement {
     font-family: 'Roboto Slab', serif;
     color: #222222;
 }
-
 #blog .latest_blog p {
     padding-bottom: 45px;
     font-size: 16px;
     color: #646464;
     font-family: 'Open Sans', sans-serif;
 }
-
 #blog .single_blog_item {
     border: 2px solid #d1d3d1;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
-
 #blog .blog_content {
     padding: 15px;
-    height: 250px;
+    height: 350px;
 }
-
 #blog .blog_content h3 {
     font-size: 22px;
     font-weight: 400;
@@ -945,17 +934,14 @@ div#achivement {
     color: #454444;
     font-family: 'Roboto Slab', serif;
 }
-
 #blog .expert {
     padding-bottom: 20px;
     color: #aeadad;
 }
-
 #blog .expert span.time {
     padding-right: 10px;
     border-right: 1px solid;
 }
-
 #blog .expert span.admin {
     padding-left: 5px;
     color: #aeadad;
@@ -963,34 +949,28 @@ div#achivement {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
-
 #blog .blog_news .blog_img img {
-    height: 300px;
+    height: 230px;
     width: 100%;
 }
-
 #blog .blog_news span.right_msg span {
     font-size: 14px;
     color: #aeadad;
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
 }
-
 #blog .expert a {
     color: #aeadad;
 }
-
 #blog .expert p.right_side {
     padding-left: 110px;
 }
-
 #blog p.blog_news_content {
     color: #646464;
     font-size: 14px;
     padding-bottom: 15px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
 #blog a.blog_link {
     text-transform: uppercase;
     font-weight: 500;
@@ -999,11 +979,9 @@ div#achivement {
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
 }
-
 #blog a.blog_link:hover {
     color: #43a906;
 }
-
 /*purches*/
 section#market {
     padding: 30px;
