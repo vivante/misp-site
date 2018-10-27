@@ -1,7 +1,19 @@
 /*Medium Screen*/
 
 @media (max-width: 1199px) {}
+
+@media (min-width: 1000px)
+{
+    #slider img {
+    height: 80vh;
+    }
+}
+
 @media (max-width: 991px) {
+    
+    /*#slider img {
+    height: 80vh;
+    }*/
     #header .top_header .phone p {
         font-size: 11px;
     }
@@ -498,6 +510,11 @@
     }
 }
 @media all and (max-width: 767px) {
+
+    #slider img {
+    height: 60vh;
+    }
+
     #header .top_header .address {
         margin-right: -10px;
         margin-left: -10px;
