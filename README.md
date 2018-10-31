@@ -1,2 +1,2 @@
 # Developer: Big Data Analytics Lab
-MISP Upcoming website 2019
+MISP event website 2019
